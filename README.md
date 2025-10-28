@@ -1,2 +1,2 @@
 # PPA_ClassWork
-Programs for PPA Batch
+Programs to demonstrate concepts for PPA Batch
